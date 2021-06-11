@@ -1,4 +1,4 @@
-def jogos():
+def jogar():
     print("Jogo da forca ! ")
 
     palavra_escondida = "Astronauta"
@@ -27,4 +27,4 @@ def jogos():
 
 
 if(__name__ == "__main__"):
-    jogos()
+    jogar()

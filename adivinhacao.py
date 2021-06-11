@@ -1,6 +1,6 @@
 import random
 
-def jogos():
+def jogar():
     
 
     print("Jogo da adivinhação ! ")
@@ -62,4 +62,4 @@ def jogos():
     print("Fim de Jogo ")
 
 if(__name__ == "__main__"): 
-    jogos()
+    jogar()
