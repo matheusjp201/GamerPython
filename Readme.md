@@ -15,6 +15,7 @@ Technologies used :
     <tr>
         <td>Python 3.9.5</td>
 
+
 ## I hope you have a lot of fun. 😜
 
 
