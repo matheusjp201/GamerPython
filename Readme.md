@@ -9,8 +9,6 @@
 + Tic Tac Toe
 
 
-Technologies used :
-
 <table>
     <tr>
         <td>Python 3.9.5</td>
